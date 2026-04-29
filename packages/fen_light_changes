@@ -1,5 +1,6 @@
-[COLOR red][B]Version 2.1.98[/B][/COLOR]
-- Quick fix for "Add to Cloud" not appearing in context menu of results.
+[COLOR red][B]Version 2.1.99[/B][/COLOR]
+- Stopped defaulting to sort by title when no sort order specified for TMDb Lists. Items will be presented as given by TMDb when no sort order has been set within Fen Light.
+- Couple of quick fixes.
 
 
 
