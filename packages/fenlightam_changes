@@ -1,3 +1,7 @@
+[COLOR dodgerblue][B]Version 2.3.0.2[/B][/COLOR]
+- Hardened the updater so it validates downloaded packages before replacing the installed addon.
+- Switched update downloads to raw.githubusercontent.com and corrected common bad repo settings.
+
 [COLOR dodgerblue][B]Version 2.3.0.1[/B][/COLOR]
 - Updated update source to the Slzstream repo.
 - Added online version/changelog files for updater.
