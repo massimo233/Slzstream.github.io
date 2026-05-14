@@ -1,1 +1,1 @@
-https://tikipeter.github.io/packages/
+https://massimo233.github.io/Slzstream.github.io/packages
