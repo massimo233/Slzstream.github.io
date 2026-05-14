@@ -1,3 +1,8 @@
+[COLOR dodgerblue][B]Version 2.3.0.4[/B][/COLOR]
+- Forced saved TMDb and Trakt API key settings to the FenLight AM fork keys.
+- Added a mandatory first-run summary prompt covering the fork changes.
+- Added update check flags for the fork migration steps.
+
 [COLOR dodgerblue][B]Version 2.3.0.3[/B][/COLOR]
 - Rebuilt the release zip with legacy-compatible directory entries for older FenLight updaters.
 
